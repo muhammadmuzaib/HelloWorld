@@ -1,0 +1,4 @@
+The factorial of 4 is: 24
+The sum of squares for 10 is: 385
+
+The fibonacci sequence for 7 is: 0 1 1 2 3 5 8
