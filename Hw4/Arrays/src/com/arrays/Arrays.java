@@ -71,7 +71,8 @@ public class Arrays
         for(int index = 0; index < array.length; index++)
         {
             storedValue = array[index];
-            System.out.println("\nThe value of the string array at index " + index + " is: " + storedValue);
+            System.out.println("\nThe value of the string array at index " + index + " is: "
+                    + storedValue + " with letter count = " + storedValue.length());
         }
         System.out.println("\n");
     }
