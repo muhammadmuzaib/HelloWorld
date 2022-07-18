@@ -1,0 +1,5 @@
+Report from 01-09 to 01-13
+The total is $23.0
+The tax is $2.0424
+The highest price item is #555 at $12.0
+The lowest price item is #222 at $0.0
