@@ -32,7 +32,11 @@ public class HW5Program
             vehicleName = scanner.next();
             speed = Integer.parseInt(scanner.next());
             time = Integer.parseInt(scanner.next().trim());
-
+            if(speed < 0 || time < 1)
+            {
+                System.out.println("\nError: Invalid input. Please make sure speed > 0 and time >=1.");
+                break;
+            }
             distance = calcDistance(speed, time);
             printReport(speed, time, vehicleName);
             saveAsFile(ps,speed,time,vehicleName);

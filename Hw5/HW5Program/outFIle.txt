@@ -2,32 +2,40 @@
 Report for vehicle: Train
 	Hour		Distance Traveled
 ----------------------------------
-	1		40
-	2		80
-	3		120
-
-Report for vehicle: Scooter
-	Hour		Distance Traveled
-----------------------------------
-	1		2
-
-Report for vehicle: Moped
-	Hour		Distance Traveled
-----------------------------------
-	1		15
-	2		30
-
-Report for vehicle: Truck
-	Hour		Distance Traveled
-----------------------------------
 	1		60
 	2		120
 	3		180
 	4		240
 	5		300
 
+Report for vehicle: Scooter
+	Hour		Distance Traveled
+----------------------------------
+	1		15
+	2		30
+	3		45
+
+Report for vehicle: Moped
+	Hour		Distance Traveled
+----------------------------------
+	1		25
+	2		50
+	3		75
+	4		100
+	5		125
+
+Report for vehicle: Truck
+	Hour		Distance Traveled
+----------------------------------
+	1		80
+	2		160
+	3		240
+	4		320
+	5		400
+	6		480
+
 Report for vehicle: F1
 	Hour		Distance Traveled
 ----------------------------------
-	1		21
-	2		42
+	1		100
+	2		200
