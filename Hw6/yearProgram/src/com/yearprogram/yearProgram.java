@@ -1,6 +1,6 @@
 /*
 Name: yearProgram.java
-Author: Muhammad Muaib
+Author: Muhammad Muzaib
 Description: Program takes month and year as user input and figures displays month days and year onto the
 console. Program does this by figuring out whether the year is a leapYear and adjusting the month days
 accordingly.
@@ -102,7 +102,7 @@ class Month
         return monthList[num];
     }
 
-    //Function takes in a number and return sthe corresponding month name.
+    //Function takes in a number and returns the corresponding month name.
     public String toString(int number)
     {
         number = number - 1;    //Adjusting month number for algorithm.
