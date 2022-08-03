@@ -5,7 +5,6 @@ public class Car {
     private int yearModel;
     private String make;
     private int speed;
-    private int carRange = 24 * 15;
 
     private FuelGauge fuelGauge;
 
@@ -17,10 +16,6 @@ public class Car {
         speed = 0;
         this.fuelGauge = fuelGauge;
         this.odometer = odometer;
-    }
-
-    public int getCarRange() {
-        return carRange;
     }
 
     public int getSpeed() {
